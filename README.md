@@ -2,15 +2,13 @@
 
 <h4>A Full-Stack developer | MERN Stack</h4>
 
+<h3 align="left">👩‍💻  About Me :</h3>
+
 - 🔭 I’m currently working on a MERN Project
 - 🌱 I’m Interested in working on Web 3.0 
 - 💬 Ask me about Technology & Finance
 - 📫 How to reach me: [iaamsougata@gmail.com]
 - ⚡ Fun fact: "Code fueled by coffee: my secret to productive programming sessions!"
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
@@ -38,6 +36,21 @@
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+</div>
+
+###
+<h3 align="left">🛠 Tools i work with :</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
 </div>
 
 ###
