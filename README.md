@@ -89,7 +89,7 @@
   <a href="https://www.linkedin.com/in/sougata-mandal-51a55824b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/your_twitter_username" target="_blank">
+  <a href="https://twitter.com/SougataXDev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="mailto:iaamsougata@gmail.com" target="_blank">
